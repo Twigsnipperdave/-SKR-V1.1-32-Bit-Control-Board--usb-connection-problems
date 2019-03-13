@@ -2,7 +2,7 @@
 
 hello everyone
 can any of help me sort out this problem I am having with the above board , I am running the latest smoothieware firmware on it, with A4988 stepper drivers for now.
-When plugged in to ant of my windows 10 pcs or laptops I get error messages saying the board is not recognised,so I checked the properties in device manager and found the following error nessage below;
+When plugged in to any of my windows 10 pcs or laptops I get error messages saying the board is not recognised,so I checked the properties in device manager and found the following error nessage below;
 
 Windows has stopped this device because it has reported problems. (Code 43)
 
