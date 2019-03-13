@@ -1,4 +1,4 @@
-# Mks-v1.1-v-usb-connection-problems
+# SKR V1.1 32-Bit Control Board--usb-connection-problems 
 
 hello everyone
 can any of help me sort out this problem I am having with the above board , I am running the latest smoothieware firmware on it, with A4988 stepper drivers for now.
